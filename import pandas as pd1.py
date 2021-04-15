@@ -20,5 +20,5 @@ f=7
 g=8
 h=9
 i=10
-hola=-1
+hola=0
 adios=0
